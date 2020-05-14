@@ -1,5 +1,8 @@
-# prestashopModuleTemplate
+# PrestaShop
 
-Repositorio con plantillas para módulos de PrestaShop.
+Repositorio con módulos de PrestaShop.
 
-Solo tienes que descargar la plantilla y sustituir mymodule por el nombre de tu módulo.
+Módulos PrestaShop creados por necesidad y que comparto para quien lo necesite.
+
+## Módulos
+* [Robots Noindex](https://github.com/acastellano/prestashop-cwrobots)
