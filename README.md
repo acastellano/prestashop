@@ -6,3 +6,4 @@ Módulos PrestaShop creados por necesidad y que comparto para quien lo necesite.
 
 ## Módulos
 * [Robots Noindex](https://github.com/acastellano/prestashop-cwrobots)
+* [Microformatos ld+json](https://github.com/acastellano/prestashop-cwldjson)
